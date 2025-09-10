@@ -85,13 +85,15 @@ Follow these steps to run the experiments and reproduce our results:
 If you find our work inspiring or use this code, please cite our paper:
 
 ```bibtex
-@article{Chen2025progressive,
-  title={A Progressive Multi-Domain Adaptation Network with Reinforced Self-Constructed Graphs for Cross-Subject EEG-Based Emotion and Consciousness Recognition},
+@ARTICLE{11142795,
   author={Chen, Rongtao and Xie, Chuwen and Zhang, Jiahui and You, Qi and Pan, Jiahui},
-  journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering},
+  journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering}, 
+  title={A Progressive Multi-Domain Adaptation Network With Reinforced Self-Constructed Graphs for Cross-Subject EEG-Based Emotion and Consciousness Recognition}, 
   year={2025},
-  publisher={IEEE}
-}
+  volume={33},
+  pages={3498-3510},
+  keywords={Brain modeling;Emotion recognition;Electroencephalography;Accuracy;Feature extraction;Adaptation models;Probability distribution;Noise measurement;Emotional responses;Computational modeling;Electroencephalogram (EEG);emotion recognition;consciousness recognition;domain adaptation;reinforcement learning},
+  doi={10.1109/TNSRE.2025.3603190}}
 ```
 
 ## 📬 Contact
@@ -99,5 +101,6 @@ If you find our work inspiring or use this code, please cite our paper:
 For questions, feedback, or issues, please:
 
 - 📧 Reach out to [chenrongtao@m.scnu.edu.cn](mailto:chenrongtao@m.scnu.edu.cn).
+
 
 Thank you for exploring our work! We hope this repository sparks innovation and advances your research journey! 🌟
