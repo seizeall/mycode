@@ -1,0 +1,8 @@
+# 直接依赖，未锁定版本。先按 Ascend 平台安装匹配的 MindSpore。
+# 驱动、固件与 CANN 兼容要求见 ../docs/ENVIRONMENT.md。
+mindspore
+numpy
+pandas
+scipy
+scikit-learn
+tqdm

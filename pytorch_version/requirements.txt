@@ -1,0 +1,10 @@
+# 直接依赖，未锁定版本。先按本机平台安装匹配的 PyTorch。
+# PyG 与 CUDA 兼容要求及安装顺序见 ../docs/ENVIRONMENT.md。
+torch
+torch-geometric
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
